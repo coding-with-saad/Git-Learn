@@ -135,5 +135,5 @@ Go to: **Settings → Danger Zone → Delete this repository**
 
 ## 👨‍💻 Created by
 
-**Your Name**  
+Malik Saad Khawar 
 *Learning Git, GitHub, and Open Source with passion!*
