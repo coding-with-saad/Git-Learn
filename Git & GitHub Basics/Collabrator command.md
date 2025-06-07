@@ -17,5 +17,5 @@
 
 
 
-- Collabrator 1:https://github.com/coding-with-saad
-- Collabrator 2:http://github.com/ali-creator7321
+- Collabrator 1:-  https://github.com/coding-with-saad
+- Collabrator 2:-  http://github.com/ali-creator7321
