@@ -14,3 +14,8 @@
 | `git push origin main`     | Uploads changes from the `main` branch to the GitHub repository.          |
 | `git fetch` (again)        | Refreshes the list of branches and updates from remote (without merging). |
 | `git pull`                 | Downloads and **merges** the latest changes from remote to your branch.   |
+
+
+
+Collabrator 1:https://github.com/coding-with-saad
+Collabrator 2:http://github.com/ali-creator7321
